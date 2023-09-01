@@ -1,0 +1,6 @@
+ALTER TABLE
+	customers
+ALTER COLUMN
+	contact_name
+SET DATA TYPE
+	VARCHAR(100);
