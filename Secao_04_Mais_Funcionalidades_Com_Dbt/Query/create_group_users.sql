@@ -1,5 +1,5 @@
 CREATE GROUP
-	biusers;
+	teste;
 
 
 CREATE USER
@@ -9,6 +9,6 @@ WITH PASSWORD
 
 
 ALTER GROUP
-	biusers
+	teste
 ADD USER
 	nome_usuario;
