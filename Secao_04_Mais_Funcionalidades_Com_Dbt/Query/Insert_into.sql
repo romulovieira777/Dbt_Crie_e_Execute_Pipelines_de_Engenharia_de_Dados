@@ -10,4 +10,3 @@ INSERT INTO
 VALUES(
 	10, 'IT', 'Notebooks'
 )
-
